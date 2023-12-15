@@ -17,6 +17,4 @@ You can click the Preview link to take a look at your changes.
 `if(saber>ayer && saber < mañana){`
     `return exito;`
 `}`
-
-
 `Esto es una línea de código`
