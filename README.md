@@ -8,8 +8,14 @@
 ecardenasm/ecardenasm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 # WyrmCode
 
 ## Sobre mi
-> Saber mas que ayer, menos que mañana
+
+' 
+var saber;
+
+if(saber>ayer && saber < mañana){
+    return exito;
+}
+'
